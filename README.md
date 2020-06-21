@@ -6,7 +6,7 @@ Made By:
  - Skulluse
  - aaron
 
-
+[Documentation](https://github.com/alubjosne/LEGO-Modding-Tool/wiki)
 
 # Information
 I will eventually post the source code onto this page, but at the moment, the program is nowhere near finished. Once the program is at least somewhat done, I will post the source.
