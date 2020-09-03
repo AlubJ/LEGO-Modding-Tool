@@ -4,7 +4,7 @@ A modding tool for LEGO Star Wars The Complete Saga
 Made By:
  - Alub
  - Skulluse
- - aaron
+ - [aaronlink127](https://github.com/aaronlink127)
 
 ## Documentation
  - [Home](https://github.com/alubjosne/LEGO-Modding-Tool/wiki)
